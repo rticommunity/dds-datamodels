@@ -1,3 +1,6 @@
 [submodule "ros-data-types"]
 	path = ros-data-types
 	url = https://github.com/rticommunity/ros-data-types
+[submodule "dds-datamodels-dicom"]
+	path = dds-datamodels-dicom
+	url = https://github.com/rticommunity/dds-datamodels-dicom
